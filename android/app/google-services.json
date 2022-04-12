@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576093729475",
+    "project_id": "beitdev-d57e2",
+    "storage_bucket": "beitdev-d57e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576093729475:android:1a9f6921e62ed8161b6876",
+        "android_client_info": {
+          "package_name": "com.gsil.beitdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576093729475-kqen281np3g0ffnhudngr1k0vm4gqvn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdgSlGU49sbSOQppyNM_FcxOdX6gZvg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576093729475-kqen281np3g0ffnhudngr1k0vm4gqvn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
